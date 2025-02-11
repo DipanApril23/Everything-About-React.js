@@ -1,0 +1,35 @@
+{
+  "name": "03-laying-the-foundation",
+  "version": "1.0.0",
+  "description": "This is Namaste React Episode 3 - Laying the Foundation",
+  "keywords": [
+    "namaste-react"
+  ],
+  "homepage": "https://github.com/DipanCSE/Everything-About-React.js#readme",
+  "bugs": {
+    "url": "https://github.com/DipanCSE/Everything-About-React.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DipanCSE/Everything-About-React.js.git"
+  },
+  "license": "ISC",
+  "author": "Dipan Majumder",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist" : [
+    "last 2 versions"
+  ]
+}
