@@ -1,0 +1,40 @@
+{
+  "name": "Episode 08 - Let's get Classy",
+  "version": "1.0.0",
+  "description": "Episode 08 - Let's get Classy",
+  "keywords": [
+    "namaste-react"
+  ],
+  "homepage": "https://github.com/DipanCSE/Everything-About-React.js#readme",
+  "bugs": {
+    "url": "https://github.com/DipanCSE/Everything-About-React.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DipanCSE/Everything-About-React.js.git"
+  },
+  "license": "ISC",
+  "author": "Dipan Majumder",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "formik": "^2.4.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.4.0",
+    "react-router": "^7.1.5",
+    "shimmer": "^1.2.1",
+    "yup": "^1.6.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
