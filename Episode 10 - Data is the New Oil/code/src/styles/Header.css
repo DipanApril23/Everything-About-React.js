@@ -1,0 +1,32 @@
+.logout-btn {
+    border: none;
+    background-color: transparent;
+    color: #545454;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.logout-btn:hover {
+    background-color:#e46f20;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+}
+
+
+.login-btn {
+    border: none;
+    background-color: transparent;
+    color: #545454;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.login-btn:hover {
+    background-color:#e46f20;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+}
