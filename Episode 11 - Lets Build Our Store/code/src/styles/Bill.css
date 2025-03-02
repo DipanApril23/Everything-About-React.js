@@ -1,0 +1,77 @@
+.bill_container {
+    padding: 1rem;           /* p-4 */
+    background-color: #ffffff; /* bg-white */
+    border-radius: 0.5rem;     /* rounded-lg */
+    width: 100%;             /* w-full */
+    color: #6B7280;          /* text-gray-500 */
+}
+
+.bill_container_heading {
+  font-size: 1rem;       /* text-md (assuming "medium" is 1rem, which is 16px) */
+  font-weight: 700;      /* font-bold */
+  margin-bottom: 1rem;   /* mb-4 (1rem margin-bottom) */
+  color: #171717;        /* text-gray-950 (a very dark gray) */
+}
+
+.item_total {
+  display: flex;                 /* flex */
+  justify-content: space-between; /* justify-between */
+  margin-bottom: 0.5rem;         /* mb-2 (0.5rem is typically 8px) */
+}
+
+.delivery_fee {
+  display: flex;                 /* flex */
+  justify-content: space-between;/* justify-between */
+  margin-bottom: 1rem;           /* mb-4 */
+}
+
+.delivery_tip_sec {
+    display: flex;                     /* flex */
+    justify-content: space-between;    /* justify-between */
+    margin-bottom: 0.5rem;             /* mb-2 (typically 0.5rem) */
+    border-top: 1px solid #D1D5DB;      /* border-t & border-gray-300 */
+    padding-top: 1rem;                 /* pt-4 (typically 1rem) */
+}
+
+.delivery_tip {
+  width: 4rem;                     /* w-16 */
+  padding: 0.25rem;                /* p-1 */
+  border-radius: 0.25rem;           /* rounded */
+  text-align: center;              /* text-center */
+  border: 1px solid #D1D5DB;        /* border & border-gray-300 */
+  appearance: none;                /* appearance-none */
+}
+
+.delivery_tip:focus {
+    outline: none;                  /* focus:outline-none */
+}
+
+.platform_fee {
+  display: flex;                  /* flex */
+  justify-content: space-between; /* justify-between */
+  margin-bottom: 0.5rem;          /* mb-2 (typically 0.5rem) */
+}
+
+.gst_other_charge {
+  display: flex;                  /* flex */
+  justify-content: space-between; /* justify-between */
+  margin-bottom: 0.5rem;          /* mb-2 (typically 0.5rem) */
+}
+
+.ammount_to_pay {
+  display: flex;                      /* flex */
+  justify-content: space-between;     /* justify-between */
+  margin-top: 1rem;                   /* mt-4 (1rem) */
+  padding-top: 1rem;                  /* pt-4 (1rem) */
+  font-size: 1.125rem;                /* text-lg (approximately 18px) */
+  color: #171717;                     /* text-gray-950 */
+  border-top: 1px solid #D1D5DB;       /* border-t & border-gray-300 */
+}
+
+.to_pay {
+    font-weight: 700; /* font-bold */
+}
+
+.subtotal {
+    font-weight: 700; /* font-bold */
+}

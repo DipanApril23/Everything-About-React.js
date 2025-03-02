@@ -1,0 +1,45 @@
+.logout-btn {
+  border: none;
+  background-color: transparent;
+  color: #545454;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.logout-btn:hover {
+  background-color: #e46f20;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.login-btn {
+  border: none;
+  background-color: transparent;
+  color: #545454;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.login-btn:hover {
+  background-color: #e46f20;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.countOfItems {
+  position: absolute;
+  top: 18px; 
+  right: 104px;
+  margin-bottom: 15px; /* mb-[15px] */
+  color: white; /* text-white */
+  background-color: #dc2626; /* bg-red-600 */
+  width: 20px; /* w-[20px] */
+  height: 20px; /* h-[20px] */
+  text-align: center; /* text-center */
+  border-radius: 100%; /* rounded-full */
+  line-height: 20px; /* Centers text vertically for single-line content */
+}
