@@ -63,25 +63,14 @@
 - ✍️ [Hand Written Notes](./09-Optimizing%20our%20App/Handwritten%20Notes/9-Optimizing%20our%20App.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1MdCpLWLxvOsAS5UmerFJ2NGvENEtrkDC/view?usp=sharing)
 
 
-## 📕 [Chapter 10 - Jo dikhta hai, vo bikta hai](./10-Jo%20dhilkta%20hai%2C%20vo%20bikta%20hai)
-- 💻 [Lecture Source Code](./10-Jo%20dhilkta%20hai%2C%20vo%20bikta%20hai/Codes)
-- ✍️ [Hand Written Notes](./10-Jo%20dhilkta%20hai%2C%20vo%20bikta%20hai/Handwritten%20Notes/10-Jo%20dikhta%20hai%2C%20vo%20bikta%20hai.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1NBnfKeF-orekiHEEdWqmcFP-DKIDSd0k/view?usp=sharing)
- 
-
-## 📕 [Chapter 11 - Data is the new Oil](./11-Data%20is%20the%20new%20Oil)
+## 📕 [Chapter 10 - Data is the new Oil](./11-Data%20is%20the%20new%20Oil)
 - 📖 [Assignment](./11-Data%20is%20the%20new%20Oil/Theory/11%20-%20Assignment.md)
 - 📝 [Theory Assignment Solution](./11-Data%20is%20the%20new%20Oil/Theory/11%20-Assignment%20Soln.md)
 - 💻 [Lecture Source Code](./11-Data%20is%20the%20new%20Oil/Codes)
 - ✍️ [Hand Written Notes](./11-Data%20is%20the%20new%20Oil/Handwriten%20Notes/11-Data%20is%20the%20new%20oil.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1Nsj6R9QV-gSnWwCTszg6w1Ath1Z6lWk0/view?usp=sharing)
 
-## 📕 [Chapter 12 - Let's build our Store](./12-Let's%20build%20our%20Store)
+## 📕 [Chapter 11 - Let's build our Store](./12-Let's%20build%20our%20Store)
 - 📖 [Assignment](./12-Let's%20build%20our%20Store/Theory/12%20-%20Assignment.md)
 - 📝 [Theory Assignment Solution](./12-Let's%20build%20our%20Store/Theory/12%20-%20Assignment%20Soln.md)
 - 💻 [Lecture Source Code](./12-Let's%20build%20our%20Store/Codes)
 - ✍️ [Hand Written Notes](./12-Let's%20build%20our%20Store/Handwritten%20Notes/12-Let's%20build%20our%20Store.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1OUKRnWFSy_9GmHC7TJWcuW38smtzx_pP/view?usp=sharing)
-
-## 📕 [Chapter 13 - Time for the Testing](./13-Time%20for%20the%20Testing)
-- 📖 [Assignment](./13-Time%20for%20the%20Testing/Theory/13%20-%20Assignment.md)
-- 📝 [Theory Assignment Solution](./13-Time%20for%20the%20Testing/Theory/13%20-Assignmnet%20Soln.md)
-- 💻 [Lecture Source Code](./13-Time%20for%20the%20Testing/Codes)
-- ✍️ [Hand Written Notes](./13-Time%20for%20the%20Testing/Handwritten%20Notes/13-Time%20for%20the%20Test.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1PFNCSCuGLLg_aqP7WXYNFxgsdqM80l-C/view?usp=sharing)
